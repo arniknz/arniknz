@@ -54,8 +54,8 @@ I'm a **Python Developer** who believes in the power of small but mighty solutio
 
 <div align="center">
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_title=true)](https://github.com/YOUR_USERNAME)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=arniknz&show_icons=true&theme=default&hide_title=true)](https://github.com/arniknz)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default)](https://github.com/YOUR_USERNAME)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arniknz&layout=compact&theme=default)](https://github.com/arniknz)
 
 </div>
