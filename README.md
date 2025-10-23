@@ -14,7 +14,7 @@ I'm a **Python Developer** who believes in the power of small but mighty solutio
 - 📊 Diving into data with **Pandas, Seaborn, sklearn**
 - 🧪 Writing **unit tests** that are as precise as shrimp movements
 - 🎓 **Honors graduate** of Yandex Lyceum specializations in **Django Web Development** and **Data Analysis**
-- 🚀 Currently learning **Go** - expanding my crustacean capabilities
+- 🚀 Currently learning **Go** and **Rust** - expanding my crustacean capabilities
 - 💡 Passionate about clean code, scalability, and continuous learning
 
 ### 🦐 Tech Stack
